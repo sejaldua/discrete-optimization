@@ -33,3 +33,6 @@ Topics Covered
 - Local Search (LS)
 - Linear Programming (LP)
 - Mixed Integer Programming (MIP)
+
+How Assignments Work
+- `handout.pdf`: detailed instructions about each assignment
