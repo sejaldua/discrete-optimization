@@ -27,3 +27,9 @@ Assignments
 - due date (recommended completion)
 - hard deadline (last chance)
 - return to assignments as you learn more
+
+Topics Covered
+- Constraint Programming (CP)
+- Local Search (LS)
+- Linear Programming (LP)
+- Mixed Integer Programming (MIP)
