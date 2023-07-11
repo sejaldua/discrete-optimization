@@ -10,3 +10,20 @@
     - if we can solve one NP-complete quickly, we can solve them all
 - widely believed to take exponential time in the worst case
 
+Course Grading
+
+- 0/10: submitting junk or infeasible solutions
+- 3/10: submitting solutions of low quality
+- 7/10: submitting solutions of good quality
+- 10/10: submitting solutions of great quality
+
+Time Commitment
+
+- 15 hours per week
+    - 1-3 hours of lectures
+    - 12-14 hours of coding
+
+Assignments
+- due date (recommended completion)
+- hard deadline (last chance)
+- return to assignments as you learn more
