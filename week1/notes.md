@@ -36,3 +36,14 @@ Topics Covered
 
 How Assignments Work
 - `handout.pdf`: detailed instructions about each assignment
+- `solver.py`
+    - solver implementation goes here
+    - can call external binaries
+    - always includes a trivial solution to the assignment
+- `submit.py`: handles running your solver on a few inputs and submits the results for grading
+- `data`: input data for testing
+
+```python
+def solve_it(input_data):
+    return 7
+```
