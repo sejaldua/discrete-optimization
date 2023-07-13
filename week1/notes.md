@@ -10,3 +10,40 @@
     - if we can solve one NP-complete quickly, we can solve them all
 - widely believed to take exponential time in the worst case
 
+Course Grading
+
+- 0/10: submitting junk or infeasible solutions
+- 3/10: submitting solutions of low quality
+- 7/10: submitting solutions of good quality
+- 10/10: submitting solutions of great quality
+
+Time Commitment
+
+- 15 hours per week
+    - 1-3 hours of lectures
+    - 12-14 hours of coding
+
+Assignments
+- due date (recommended completion)
+- hard deadline (last chance)
+- return to assignments as you learn more
+
+Topics Covered
+- Constraint Programming (CP)
+- Local Search (LS)
+- Linear Programming (LP)
+- Mixed Integer Programming (MIP)
+
+How Assignments Work
+- `handout.pdf`: detailed instructions about each assignment
+- `solver.py`
+    - solver implementation goes here
+    - can call external binaries
+    - always includes a trivial solution to the assignment
+- `submit.py`: handles running your solver on a few inputs and submits the results for grading
+- `data`: input data for testing
+
+```python
+def solve_it(input_data):
+    return 7
+```
