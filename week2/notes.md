@@ -1,5 +1,7 @@
 ## Week 2: The Knapsack Problem
 
+### Greedy Algorithm
+
 - What is "greedy"?
   - assume it's "easy" to build a feasible solution
   - build a solution by picking one item at a time
@@ -16,3 +18,17 @@
   - no quality guarantees (in general)
   - quality can vary widely on the input
   - problem feasibility needs to be "easy"
+- summary
+  - we can always start with greedy
+  - going beyond the greedy solution
+    - constraint programming
+    - local search
+    - mixed integer programming
+
+### Modeling
+
+- Step 1: formalize an optimization task as a mathematical model
+- the (1-dimensional) knapsack problem
+  - given a set of items $I$, each item $i \in I$ characterized by
+    - its weight $w_i$
+    - its value $v_i$
